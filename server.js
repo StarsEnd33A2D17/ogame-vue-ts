@@ -6,8 +6,8 @@ const app = express();
 const HOST = '0.0.0.0';
 
 app.set('trust proxy', true);
-// 指向 Vue 构建后的 dist 目录
-app.use(express.static(path.join(process.cwd(), 'dist')));
+// 指向 Vue 构建后的 docs 目录
+app.use(express.static(path.join(process.cwd(), 'docs')));
 
 const getLocalIp = () => {
     const interfaces = os.networkInterfaces();
