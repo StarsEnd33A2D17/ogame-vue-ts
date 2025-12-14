@@ -49,7 +49,10 @@ OGame Vue TS is a single-player, browser-based space strategy game inspired by t
 
 ## Quick Start
 
-### Download Build
+### Download Build Product
+
+#### Server version
+
 [Windows](https://github.com/coolxitech/ogame-vue-ts/releases/latest/download/ogame-windows-amd64.exe)
 
 [Linux amd64](https://github.com/coolxitech/ogame-vue-ts/releases/latest/download/ogame-linux-amd64)
@@ -59,6 +62,14 @@ OGame Vue TS is a single-player, browser-based space strategy game inspired by t
 [MacOS Intel](https://github.com/coolxitech/ogame-vue-ts/releases/latest/download/ogame-macos-amd64)
 
 [MacOS](https://github.com/coolxitech/ogame-vue-ts/releases/latest/download/ogame-macos-arm64)
+
+#### Desktop version
+
+[Windows](https://github.com/coolxitech/ogame-vue-ts/releases/latest/download/OGame.Setup.exe)
+
+[Ubuntu](https://github.com/coolxitech/ogame-vue-ts/releases/latest/download/OGame.AppImage)
+
+[MacOS](https://github.com/coolxitech/ogame-vue-ts/releases/latest/download/OGame-mac.dmg)
 
 ### Prerequisites
 
